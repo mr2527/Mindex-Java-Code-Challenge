@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd6b5571-b63d-4792-bd5e-dcc3fbbba007" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mindex/challenge/DataBootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mindex/challenge/DataBootstrap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mindex/challenge/service/impl/EmployeeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mindex/challenge/service/impl/EmployeeServiceImpl.java" afterDir="false" />
-    </list>
+    <list default="true" id="bd6b5571-b63d-4792-bd5e-dcc3fbbba007" name="Default Changelist" comment="mindex-java-code-challenge complete" />
     <list id="465120e8-f49b-4f04-9c93-d15b8d347597" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +30,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -176,8 +178,16 @@
       <option name="presentableId" value="Default" />
       <updated>1614453112046</updated>
       <workItem from="1614453113315" duration="852000" />
-      <workItem from="1614454122291" duration="20374000" />
+      <workItem from="1614454122291" duration="20746000" />
     </task>
+    <task id="LOCAL-00001" summary="mindex-java-code-challenge complete">
+      <created>1614475819652</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614475819652</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,6 +213,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mindex-java-code-challenge complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="mindex-java-code-challenge complete" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
