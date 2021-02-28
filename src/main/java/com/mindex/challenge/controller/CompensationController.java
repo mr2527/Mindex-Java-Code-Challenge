@@ -35,7 +35,7 @@ public class CompensationController {
 
     /**
      * create method constructed to allow for receiving create responses
-     * and sending a compensation
+     * and sending a compensation.
      * @param compensation compensation
      * @return compensationService.create
      */
