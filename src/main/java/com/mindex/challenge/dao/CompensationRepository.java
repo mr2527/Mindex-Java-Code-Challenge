@@ -6,6 +6,8 @@ import org.springframework.data.mongodb.repository.MongoRepository;
 
 /**
  * Interface for Compensation. Stub for findByEmployeeId similar to EmployeeRepository.java
+ *
+ * @author Miguel Rosario
  */
 @Repository
 public interface CompensationRepository extends MongoRepository<Compensation, String> {

@@ -7,7 +7,12 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-
+/**
+ * Class that allows for URL routing to localhost:8080/compensation/{id}
+ * as instructed
+ *
+ * @author Miguel Rosario
+ */
 @RestController
 public class CompensationController {
     private static final Logger LOG = LoggerFactory.getLogger(CompensationController.class);

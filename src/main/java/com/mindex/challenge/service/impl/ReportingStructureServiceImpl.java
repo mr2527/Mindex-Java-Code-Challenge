@@ -19,6 +19,8 @@ import java.util.UUID;
 /**
  * Duplicate code for create and read from EmployeeServiceImpl
  * but going for single responsibility & appropriate class structure
+ *
+ * @author Miguel Rosario
  */
 @Service
 public class ReportingStructureServiceImpl implements ReportingStructureService {

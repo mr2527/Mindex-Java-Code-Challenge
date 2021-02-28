@@ -9,6 +9,8 @@ import java.util.Date;
  * General class required to create a Compensation object.
  * As instructed, requires 3 params:
  * A Compensation has the following fields: employee, salary, and effectiveDate
+ *
+ * @author Miguel Rosario
  */
 public class Compensation {
 
