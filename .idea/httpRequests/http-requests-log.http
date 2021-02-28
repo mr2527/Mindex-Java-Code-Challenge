@@ -1,0 +1,16 @@
+GET http://localhost/compensation/b7839309-3348-463b-a7e3-5de1c168beb3
+
+###
+
+GET http://localhost/compensation/b7839309-3348-463b-a7e3-5de1c168beb3
+
+###
+
+GET http://localhost/compensation/b7839309-3348-463b-a7e3-5de1c168beb3
+
+###
+
+GET http://localhost/compensation/{{id}}
+
+###
+
