@@ -44,7 +44,7 @@ public class CompensationController {
      * @param compensation compensation
      * @return compensationService.create
      */
-    @PutMapping("/compensation")
+    @PostMapping("/compensation")
     public Compensation create(@RequestBody Compensation compensation){
 
         // Logger for appropriate messages
